@@ -1,16 +1,27 @@
-## Hi there 👋
+👋 Hello, I'm Nagabharath!
+🌟 Aspiring Data Analyst | Civil Engineer turned IT Professional
+🚀 Passionate about uncovering insights through Python, SQL, Power BI, and Excel.
 
-<!--
-**nagabharath2003/nagabharath2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Skills & Tools
+Programming: Python (Pandas, NumPy, Matplotlib, Seaborn)
+Data Analysis: SQL, Excel (Advanced), Power BI (Interactive Dashboards)
+AI/ML: Basics of Artificial Intelligence and Machine Learning
+Version Control: Git & GitHub
+💼 Projects
+📊 Business Intelligence Dashboards
 
-Here are some ideas to get you started:
+Created dynamic dashboards for sales and finance analytics, enabling data-driven decisions.
+Tools: Power BI, Excel
+📈 Sales and Finance Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Analyzed datasets to uncover trends and optimize financial performance.
+Tools: Python, SQL
+🎯 What I'm Working On
+Enhancing my data visualization skills with advanced Power BI features.
+Exploring machine learning for predictive analytics.
+🌱 Fun Fact
+I transitioned from Civil Engineering to IT, driven by a passion for AI and data analysis.
+
+📫 Connect with Me
+LinkedIn:https://www.linkedin.com/in/chamarthinagabharath/
+
