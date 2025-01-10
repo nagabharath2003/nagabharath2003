@@ -1,6 +1,6 @@
 # 👋 Hello, I'm **Nagabharath**  
 
-![Header](https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Profile)
+![Motion Header](https://media.giphy.com/media/3o7aD5t9x3yew2smqY/giphy.gif)  
 
 🌟 **Aspiring Data Analyst | Civil Engineer turned IT Professional**  
 🚀 Passionate about uncovering insights through **Python**, **SQL**, **Power BI**, and **Excel**.  
@@ -15,10 +15,6 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
 
-### **Version Control**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-
 ---
 
 ## 💼 **Projects**  
@@ -27,13 +23,13 @@
 > **Tools Used:** Power BI, Excel  
 - Created dynamic dashboards for sales and finance analytics, enabling data-driven decisions.  
 
-![Dashboard Image Placeholder](https://via.placeholder.com/800x400.png?text=Business+Intelligence+Dashboard)
+![Dashboard Image](https://via.placeholder.com/800x400.png?text=Dynamic+Dashboard)
 
 ### 📈 **Sales and Finance Analytics**  
 > **Tools Used:** Python, SQL  
 - Analyzed datasets to uncover trends and optimize financial performance.  
 
-![Analytics Image Placeholder](https://via.placeholder.com/800x400.png?text=Sales+and+Finance+Analytics)
+![Analytics Image](https://via.placeholder.com/800x400.png?text=Sales+Analytics)
 
 ---
 
@@ -56,5 +52,5 @@ I transitioned from Civil Engineering to IT, driven by a passion for AI and data
 ---
 
 ### 🌟 **Thank You for Visiting!**  
-![Footer](https://via.placeholder.com/800x100.png?text=Happy+Coding!)
+![Footer](https://media.giphy.com/media/3o7aD5t9x3yew2smqY/giphy.gif)
 
