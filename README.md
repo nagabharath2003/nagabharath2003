@@ -1,4 +1,4 @@
-# 👋 Hello, I'm **Nagabharath**  ![221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c](https://github.com/user-attachments/assets/5c824931-ef50-4518-9162-b8c11422349b)
+# 👋 Hello, I'm **Nagabharath** 
 
 
 
@@ -30,5 +30,5 @@
 
 ---
 
-### 🌟 **Thank You for Visiting!**  
+### 🌟 **Thank You for Visiting!**  https://github.com/user-attachments/assets/5c824931-ef50-4518-9162-b8c11422349b
 
