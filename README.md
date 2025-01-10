@@ -27,6 +27,8 @@
 ## 📫 **Connect with Me**  
 [![LinkedIn].https://www.linkedin.com/in/chamarthinagabharath/
   
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true" align="center" /></div>  
 
 ---
 
