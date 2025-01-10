@@ -1,6 +1,7 @@
 # 👋 Hello, I'm **Nagabharath**  
 
-![Motion Header](https://media.giphy.com/media/3o7aD5t9x3yew2smqY/giphy.gif)  
+
+![212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514](https://github.com/user-attachments/assets/3c46eabf-5164-49e9-88af-68fe5a1e6dc3)
 
 🌟 **Aspiring Data Analyst | Civil Engineer turned IT Professional**  
 🚀 Passionate about uncovering insights through **Python**, **SQL**, **Power BI**, and **Excel**.  
