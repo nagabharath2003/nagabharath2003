@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=220&section=header&text=Nagabharath&fontSize=50&fontColor=ffffff&desc=Data%20Analyst%20|%20Power%20BI%20•%20SQL%20•%20Python&descAlignY=65&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00fecb&height=220&section=header&text=Nagabharath&fontSize=50&fontColor=ffffff&desc=Data%20Analyst%20|%20Power%20BI%20•%20SQL%20•%20Python&descAlignY=65&animation=fadeIn"
     width="100%"
   />
 </p>
